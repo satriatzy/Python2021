@@ -1,3 +1,7 @@
+####################################
+# First basic think learn python2021
+# Sam Achmad
+####################################
 import os
 os.system ('Clear')
 
