@@ -10,19 +10,14 @@ os.system ('Clear')
 ###################
 # Strings
 ###################
-
-name = "SatriaTzy"
-greetings = "Hy, my name is  " + name
-
-print(greetings.upper())
-
 ##################################
 #Learn Functions on Strings Python
 ##################################
 
-#Functions Upper
+#Functions Upper , Lower , Capitalize , Title , Swapcase & Len
+name = "SatriaTzy"
+greetings = "hy, my name is  " + name
 
-# Example2
-# greetings = "Hy, my name is Satria"
+#print(greetings[4:14])
+print(greetings.split(" ")[5])
 
-#print(greetings)
